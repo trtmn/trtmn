@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center"> Hi I'm Matt </h3>
-<h4 align="center"> [Let's Chat](https://trtmn.com/chat)</h4>
+<h4 align="center"> <a href="https://trtmn.com/chat">Let's Chat</a></h4>
 
 <!---
 trtmn/trtmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
