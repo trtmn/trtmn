@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center"> Hi I'm Matt </h3>
-<h4 align="center"> <a href="https://trtmn.com/chat">Let's Chat</a></h4>
+<h4 align="center"> <a href="https://trtmn.io/chat">Let's Chat</a></h4>
 
 
 
