@@ -3,17 +3,20 @@
 </div>
 
 <h3 align="center"> Hi I'm Matt </h3>
-<h4 align="center"> <a href="https://trtmn.io/chat">Let's Chat</a></h4>
-
+<h4 align="center">
+  <a href="https://trtmn.io/chat">
+    <img src="https://img.shields.io/badge/Let's%20Chat-blue.svg" alt="Let's Chat" height="50">
+  </a>
+</h4>
 
 <div align="center">
     <a href="https://git.io/streak-stats">
      <img src="https://streak-stats.demolab.com?user=trtmn&theme=yellowdark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D)" alt="trtmn's streak" />
     </a>
 </div>
-
-
-<!---
-trtmn/trtmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br><br>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trtmn&theme=dark"
+    </a>    
+</div>
