@@ -6,7 +6,7 @@
 <h4 align="center"> <a href="https://trtmn.io/chat">Let's Chat</a></h4>
 
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <a href="https://git.io/streak-stats">
      <img src="https://streak-stats.demolab.com?user=trtmn&theme=yellowdark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D)" alt="trtmn's streak" />
     </a>
