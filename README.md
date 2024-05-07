@@ -6,6 +6,8 @@
 <h4 align="center"> <a href="https://trtmn.io/chat">Let's Chat</a></h4>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=trtmn&theme=yellowdark&border_radius=25&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 
 
 <!---
