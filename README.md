@@ -4,7 +4,7 @@
 
 <h3 align="center"> Hi I'm Matt </h3>
 <h4 align="center">
-  <a href="https://trtmn.io/chat">
+  <a href="https://trtmn.io/chat/">
     <img src="https://img.shields.io/badge/Let's%20Chat-blue.svg" alt="Let's Chat" height="50">
   </a>
 </h4>
