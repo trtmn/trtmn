@@ -1,6 +1,6 @@
 <div align="center">
-  // Whoops
-//<img src="https://cdn.trtmn.com/wp-content/uploads/2021/06/6cf0969498d9cba2cc667952d0685a9e-sticker.png" alt="drawing" width="200"/>
+  <!--Whoops -->
+<!--- <img src="https://cdn.trtmn.com/wp-content/uploads/2021/06/6cf0969498d9cba2cc667952d0685a9e-sticker.png" alt="drawing" width="200"/>-->
 </div>
 
 <h3 align="center"> Hi I'm Matt </h3>
